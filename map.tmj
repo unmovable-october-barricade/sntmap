@@ -730,7 +730,7 @@
                         {
                          "name":"openConfig",
                          "type":"string",
-                         "value":"ex6url"
+                         "value":"exUrl"
                         }, 
                         {
                          "name":"openConfigTrigger",
@@ -1029,7 +1029,7 @@
         {
          "draworder":"topdown",
          "id":76,
-         "name":"ex6",
+         "name":"configuration",
          "objects":[
                 {
                  "height":91,
@@ -1061,7 +1061,7 @@
                 {
                  "height":0,
                  "id":26,
-                 "name":"ex6url",
+                 "name":"exUrl",
                  "point":true,
                  "properties":[
                         {
@@ -1089,7 +1089,7 @@
                 {
                  "height":0,
                  "id":27,
-                 "name":"ex6header",
+                 "name":"exHeader",
                  "point":true,
                  "properties":[
                         {
