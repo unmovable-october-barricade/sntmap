@@ -730,7 +730,7 @@
                         {
                          "name":"openConfig",
                          "type":"string",
-                         "value":"exUrl"
+                         "value":"exHeader,exText,exUrl"
                         }, 
                         {
                          "name":"openConfigTrigger",
@@ -1046,10 +1046,21 @@
                  "width":99,
                  "x":386.5,
                  "y":247.5
-                }, 
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":76,
+         "name":"configuration",
+         "objects":[
                 {
                  "height":0,
-                 "id":30,
+                 "id":32,
                  "name":"exUrl",
                  "point":true,
                  "properties":[
@@ -1072,12 +1083,12 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":463.5,
-                 "y":284.5
+                 "x":443.5,
+                 "y":291.5
                 }, 
                 {
                  "height":0,
-                 "id":31,
+                 "id":33,
                  "name":"exHeader",
                  "point":true,
                  "properties":[
@@ -1100,20 +1111,62 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":437.5,
-                 "y":280.5
+                 "x":466.5,
+                 "y":287.5
+                }, 
+                {
+                 "height":21.5,
+                 "id":34,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Arial",
+                     "pixelsize":11,
+                     "text":"{{{ exText }}}",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":101.5,
+                 "x":380,
+                 "y":350
+                }, 
+                {
+                 "height":0,
+                 "id":36,
+                 "name":"exText",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"Geschlossen"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Der Text der unter dem Stand angezeigt wird."
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand Text"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":446.5,
+                 "y":294.5
                 }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":76,
-         "name":"configuration",
-         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -1295,7 +1348,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":32,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
