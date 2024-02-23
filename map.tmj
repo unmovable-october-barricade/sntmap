@@ -1054,126 +1054,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":76,
-         "name":"configuration",
-         "objects":[
-                {
-                 "height":0,
-                 "id":32,
-                 "name":"exUrl",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Inhalt"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":443.5,
-                 "y":291.5
-                }, 
-                {
-                 "height":0,
-                 "id":33,
-                 "name":"exHeader",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Titel"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":466.5,
-                 "y":287.5
-                }, 
-                {
-                 "height":21.5,
-                 "id":34,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"font-family",
-                         "type":"string",
-                         "value":"\"Press Start 2P\""
-                        }],
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Arial",
-                     "pixelsize":11,
-                     "text":"{{{ exText }}}",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":101.5,
-                 "x":380,
-                 "y":350
-                }, 
-                {
-                 "height":0,
-                 "id":36,
-                 "name":"exText",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Geschlossen"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Der Text der unter dem Stand angezeigt wird."
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Stand Text"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":446.5,
-                 "y":294.5
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "id":51,
          "layers":[
                 {
@@ -1343,6 +1223,128 @@
          "name":"above",
          "opacity":1,
          "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":76,
+         "name":"configuration",
+         "objects":[
+                {
+                 "height":0,
+                 "id":32,
+                 "name":"exUrl",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Inhalt"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":443.5,
+                 "y":291.5
+                }, 
+                {
+                 "height":0,
+                 "id":33,
+                 "name":"exHeader",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Titel"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":466.5,
+                 "y":287.5
+                }, 
+                {
+                 "height":12,
+                 "id":34,
+                 "name":"exLabel",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Arial",
+                     "halign":"center",
+                     "pixelsize":11,
+                     "text":"6",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":22.4090909090909,
+                 "x":387.772727272727,
+                 "y":242.136363636364
+                }, 
+                {
+                 "height":0,
+                 "id":36,
+                 "name":"exText",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"Geschlossen"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Der Text der unter dem Stand angezeigt wird."
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand Text"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":446.5,
+                 "y":294.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
