@@ -303,9 +303,9 @@
                  "y":0
                 }, 
                 {
-                 "data":[0, 0, 982, 983, 0, 0, 0, 982, 983, 0, 0, 0, 982, 983, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1059, 1060, 1061, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 998, 999, 0, 0, 0, 998, 999, 0, 0, 0, 998, 999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1075, 1076, 1077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                 "data":[0, 0, 982, 983, 0, 0, 0, 982, 983, 0, 0, 0, 982, 983, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30358, 30359, 30360, 0, 0, 0, 0, 0, 0, 0, 1059, 1060, 1061, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 998, 999, 0, 0, 0, 998, 999, 0, 0, 0, 998, 999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30363, 30364, 30365, 0, 0, 0, 0, 0, 0, 0, 1075, 1076, 1077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30368, 30369, 30370, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -690,68 +690,6 @@
                  "width":56,
                  "x":0,
                  "y":0
-                }, 
-                {
-                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-                 "height":30,
-                 "id":77,
-                 "name":"ex6_config",
-                 "opacity":1,
-                 "properties":[
-                        {
-                         "name":"openConfig",
-                         "type":"string",
-                         "value":"exHeader,exText,exUrl"
-                        }, 
-                        {
-                         "name":"openConfigTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openConfigTriggerMessage",
-                         "type":"string",
-                         "value":"Dr\u00fccke Leertaste um den Stand anzupassen."
-                        }, 
-                        {
-                         "name":"zone",
-                         "type":"string",
-                         "value":"ex6config"
-                        }],
-                 "type":"tilelayer",
-                 "visible":true,
-                 "width":56,
-                 "x":0,
-                 "y":0
                 }],
          "name":"exhibition",
          "opacity":1,
@@ -1019,37 +957,10 @@
                  "width":288,
                  "x":1230.66666666667,
                  "y":489.3335
-                }, 
-                {
-                 "height":91,
-                 "id":29,
-                 "name":"ex6",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ ex6url }}}"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"{{{ ex6header }}}"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":99,
-                 "x":386.5,
-                 "y":247.5
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -1228,129 +1139,1160 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":76,
-         "name":"configuration",
-         "objects":[
+         "id":79,
+         "layers":[
                 {
-                 "height":0,
-                 "id":32,
-                 "name":"exUrl",
-                 "point":true,
+                 "draworder":"topdown",
+                 "id":76,
+                 "name":"ex9",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":32,
+                         "name":"ex9Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":441.5,
+                         "y":556.166666666667
+                        }, 
+                        {
+                         "height":0,
+                         "id":33,
+                         "name":"ex9Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":464.5,
+                         "y":552.166666666667
+                        }, 
+                        {
+                         "height":12,
+                         "id":34,
+                         "name":"ex9Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"9",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":451.772727272727,
+                         "y":476.469696969697
+                        }, 
+                        {
+                         "height":113,
+                         "id":29,
+                         "name":"ex9",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex9Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex9Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":106.666666666667,
+                         "x":372.166666666667,
+                         "y":470.333333333333
+                        }],
+                 "opacity":1,
                  "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
-                        }, 
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Inhalt"
+                         "value":"Stand 9"
                         }],
-                 "rotation":0,
-                 "type":"variable",
+                 "type":"objectgroup",
                  "visible":true,
-                 "width":0,
-                 "x":443.5,
-                 "y":291.5
+                 "x":0,
+                 "y":0
                 }, 
                 {
-                 "height":0,
-                 "id":33,
-                 "name":"exHeader",
-                 "point":true,
+                 "draworder":"topdown",
+                 "id":82,
+                 "name":"ex8",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":40,
+                         "name":"ex8Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":223.833333333333,
+                         "y":523.5
+                        }, 
+                        {
+                         "height":0,
+                         "id":41,
+                         "name":"ex8Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":274.833333333333,
+                         "y":559.5
+                        }, 
+                        {
+                         "height":12,
+                         "id":42,
+                         "name":"ex8Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"8",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":228.10606060606,
+                         "y":476.636363636364
+                        }, 
+                        {
+                         "height":111,
+                         "id":43,
+                         "name":"ex8",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex8Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex8Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":153,
+                         "x":179.833333333333,
+                         "y":472.333333333333
+                        }],
+                 "opacity":1,
                  "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
-                        }, 
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Titel"
+                         "value":"Stand 8"
                         }],
-                 "rotation":0,
-                 "type":"variable",
+                 "type":"objectgroup",
                  "visible":true,
-                 "width":0,
-                 "x":466.5,
-                 "y":287.5
+                 "x":0,
+                 "y":0
                 }, 
                 {
-                 "height":12,
-                 "id":34,
-                 "name":"exLabel",
-                 "properties":[
+                 "draworder":"topdown",
+                 "id":88,
+                 "name":"ex7",
+                 "objects":[
                         {
-                         "name":"font-family",
-                         "type":"string",
-                         "value":"\"Press Start 2P\""
+                         "height":0,
+                         "id":64,
+                         "name":"ex7Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":86.1666666666667,
+                         "y":525.833333333333
+                        }, 
+                        {
+                         "height":0,
+                         "id":65,
+                         "name":"ex7Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":109.166666666667,
+                         "y":521.833333333333
+                        }, 
+                        {
+                         "height":12,
+                         "id":66,
+                         "name":"ex7Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"7",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":35.9393939393937,
+                         "y":529.969696969697
+                        }, 
+                        {
+                         "height":110,
+                         "id":67,
+                         "name":"ex7",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex7Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex7Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":109.5,
+                         "x":30.6666666666667,
+                         "y":472.333333333333
                         }],
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Arial",
-                     "halign":"center",
-                     "pixelsize":11,
-                     "text":"6",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":22.4090909090909,
-                 "x":387.772727272727,
-                 "y":242.136363636364
-                }, 
-                {
-                 "height":0,
-                 "id":36,
-                 "name":"exText",
-                 "point":true,
+                 "opacity":1,
                  "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Geschlossen"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Der Text der unter dem Stand angezeigt wird."
-                        }, 
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"Stand Text"
+                         "value":"Stand 7"
                         }],
-                 "rotation":0,
-                 "type":"variable",
+                 "type":"objectgroup",
                  "visible":true,
-                 "width":0,
-                 "x":446.5,
-                 "y":294.5
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":90,
+                 "name":"ex6",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":72,
+                         "name":"ex6Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":443.5,
+                         "y":291.5
+                        }, 
+                        {
+                         "height":0,
+                         "id":73,
+                         "name":"ex6Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":466.5,
+                         "y":287.5
+                        }, 
+                        {
+                         "height":12,
+                         "id":74,
+                         "name":"ex6Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"6",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":387.772727272727,
+                         "y":242.136363636364
+                        }, 
+                        {
+                         "height":113,
+                         "id":75,
+                         "name":"ex6",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex6Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex6Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":106.666666666667,
+                         "x":373.5,
+                         "y":247
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand 6"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":89,
+                 "name":"ex5",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":68,
+                         "name":"ex5Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":230.5,
+                         "y":289.5
+                        }, 
+                        {
+                         "height":0,
+                         "id":69,
+                         "name":"ex5Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":281.5,
+                         "y":325.5
+                        }, 
+                        {
+                         "height":12,
+                         "id":70,
+                         "name":"ex5Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"5",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":259.772727272727,
+                         "y":253.136363636364
+                        }, 
+                        {
+                         "height":111,
+                         "id":71,
+                         "name":"ex5",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex5Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex5Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":153,
+                         "x":178.5,
+                         "y":249
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand 5"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":83,
+                 "name":"ex4",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":44,
+                         "name":"ex4Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":87.5,
+                         "y":302.5
+                        }, 
+                        {
+                         "height":0,
+                         "id":45,
+                         "name":"ex4Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":110.5,
+                         "y":298.5
+                        }, 
+                        {
+                         "height":12,
+                         "id":46,
+                         "name":"ex4Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"4",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":99.772727272727,
+                         "y":253.636363636364
+                        }, 
+                        {
+                         "height":110,
+                         "id":47,
+                         "name":"ex4",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex4Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex4Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":109.5,
+                         "x":32,
+                         "y":249
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand 4"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":87,
+                 "name":"ex3",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":60,
+                         "name":"ex3Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":444.745832797703,
+                         "y":157.932960534773
+                        }, 
+                        {
+                         "height":0,
+                         "id":61,
+                         "name":"ex3Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":466.705082058534,
+                         "y":154.113960663324
+                        }, 
+                        {
+                         "height":11.4569996143463,
+                         "id":62,
+                         "name":"ex3Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"3",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":21.3950788252755,
+                         "x":420.415220952292,
+                         "y":114.428030303031
+                        }, 
+                        {
+                         "height":115.220079701761,
+                         "id":63,
+                         "name":"ex3",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex3Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex3Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":109.173329905301,
+                         "x":370.580001714016,
+                         "y":115.446586964906
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand 3"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":86,
+                 "name":"ex2",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":56,
+                         "name":"ex2Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":229.833333333333,
+                         "y":160.833333333333
+                        }, 
+                        {
+                         "height":0,
+                         "id":57,
+                         "name":"ex2Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":280.833333333333,
+                         "y":196.833333333333
+                        }, 
+                        {
+                         "height":12,
+                         "id":58,
+                         "name":"ex2Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"2",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":292.015151515151,
+                         "y":157.015151515152
+                        }, 
+                        {
+                         "height":108.333333333333,
+                         "id":59,
+                         "name":"ex2",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex2Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex2Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":153,
+                         "x":177.833333333333,
+                         "y":120.333333333333
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand 2"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":85,
+                 "name":"ex1",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":52,
+                         "name":"ex1Url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Der link zu der Seite die beim Aufrufen des Standes \u00f6ffnet."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Inhalt"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":87.5,
+                         "y":172.5
+                        }, 
+                        {
+                         "height":0,
+                         "id":53,
+                         "name":"ex1Header",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"description",
+                                 "type":"string",
+                                 "value":"Eine kurzer Titel der vor dem \u00f6ffnen angezeigt wird."
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Titel"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":110.5,
+                         "y":168.5
+                        }, 
+                        {
+                         "height":12,
+                         "id":54,
+                         "name":"ex1Label",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"\"Press Start 2P\""
+                                }],
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"1",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":22.4090909090909,
+                         "x":35.1060606060604,
+                         "y":146.969696969697
+                        }, 
+                        {
+                         "height":110,
+                         "id":55,
+                         "name":"ex1",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"{{{ ex1Url }}}"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"{{{ ex1Header }}}"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":109.5,
+                         "x":32,
+                         "y":119
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Stand 1"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
                 }],
+         "name":"configuration",
          "opacity":1,
-         "type":"objectgroup",
+         "type":"group",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":78,
- "nextobjectid":37,
+ "nextlayerid":91,
+ "nextobjectid":76,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -28849,6 +29791,19 @@
          "name":"doors",
          "spacing":0,
          "tilecount":3192,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":30358,
+         "image":"tilesets\/logo_pixelated.png",
+         "imageheight":96,
+         "imagewidth":160,
+         "margin":0,
+         "name":"logo_pixelated",
+         "spacing":0,
+         "tilecount":15,
          "tileheight":32,
          "tilewidth":32
         }],
