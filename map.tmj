@@ -960,7 +960,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -1144,7 +1144,7 @@
          "name":"font",
          "objects":[
                 {
-                 "height":12,
+                 "height":21.6666666666667,
                  "id":76,
                  "name":"ex1Label",
                  "properties":[
@@ -1159,19 +1159,17 @@
                      "color":"#ffffff",
                      "fontfamily":"Sans Serif Collection",
                      "halign":"center",
-                     "pixelsize":8,
+                     "pixelsize":11,
                      "text":"1",
                      "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":14.0758,
-                 "x":42.9621,
-                 "y":146.136363636364
+                 "width":24.4091333333333,
+                 "x":43.9621,
+                 "y":194.803030303031
                 }],
-         "offsetx":3.33333333333333,
-         "offsety":7.33333333333334,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -2297,9 +2295,11 @@
                  "y":0
                 }],
          "name":"configuration",
+         "offsetx":5.66666666666667,
+         "offsety":39.3333333333333,
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
