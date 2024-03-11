@@ -1157,9 +1157,9 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "fontfamily":"Arial",
+                     "fontfamily":"Sans Serif Collection",
                      "halign":"center",
-                     "pixelsize":11,
+                     "pixelsize":8,
                      "text":"1",
                      "valign":"center",
                      "wrap":true
@@ -1170,6 +1170,8 @@
                  "x":42.9621,
                  "y":146.136363636364
                 }],
+         "offsetx":3.33333333333333,
+         "offsety":7.33333333333334,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -2302,7 +2304,7 @@
          "y":0
         }],
  "nextlayerid":92,
- "nextobjectid":77,
+ "nextobjectid":78,
  "orientation":"orthogonal",
  "properties":[
         {
